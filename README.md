@@ -1,6 +1,6 @@
 # [Rust RFC](https://github.com/rust-lang/rfcs) proposals
 
-* [Stage 0 Proposals](stage-0-proposals.md)
+* [Brainstorm Proposals](brainstorm-proposals.md)
 * [Finished Proposals](finished-proposals.md)
 * [Inactive Proposals](inactive-proposals.md)
 
