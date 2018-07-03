@@ -1,4 +1,4 @@
-# Inactive Proposals
+# Postponed Proposals
 
 | Proposal                                                             | Champion |
 |----------------------------------------------------------------------|----------|
