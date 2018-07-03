@@ -6,7 +6,7 @@
 
 ## Active proposals
 
-This list contains only stage 1 proposals and higher that have not yet been withdrawn/rejected, or become finished.
+This list contains proposals that have made it past the brainstorming phase, but have not yet been stabilized or postponed.
 
 ### Evaluating stage
 
