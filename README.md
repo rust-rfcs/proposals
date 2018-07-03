@@ -1,26 +1,26 @@
 # [Rust RFC](https://github.com/rust-lang/rfcs) proposals
 
 * [Brainstorm Proposals](brainstorm-proposals.md)
-* [Finished Proposals](finished-proposals.md)
-* [Inactive Proposals](inactive-proposals.md)
+* [Stabilized Proposals](stabilized-proposals.md)
+* [Postponed Proposals](postponed-proposals.md)
 
 ## Active proposals
 
 This list contains only stage 1 proposals and higher that have not yet been withdrawn/rejected, or become finished.
 
-### Stage 3
+### Evaluating stage
 
 | :rocket: | Proposal                                                               | Author                              | Champion                                                                |
 | -------- | ---------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------- |
 |          |                                                                        |                                     |                                                                         |
 
-### Stage 2
+### Implementing stage
 
 | :rocket: | Proposal                                                               | Author                              | Champion                                                                |
 | -------- | ---------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------- |
 |          |                                                                        |                                     |                                                                         |
 
-### Stage 1
+### Designing stage
 
 | :rocket: | Proposal                                                               | Author                              | Champion                                                                |
 | -------- | ---------------------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------------------- |
