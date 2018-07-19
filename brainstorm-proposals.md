@@ -6,6 +6,7 @@ Brainstorms are the first step in the process; anyone can start a brainstorm, an
 | -------- | ------------------------------------------------------------------ | ------------------------------------- | ------------------------------------- |
 |          | [Unsafe code guidelines](https://github.com/rust-rfcs/unsafe-code-guidelines) | @nikomatsakis | @nikomatsakis |
 |          | [impl Trait](https://github.com/rust-rfcs/impl-trait) | @nikomatsakis | @nikomatsakis |
+|          | [const eval](https://github.com/rust-rfcs/const-eval) | @nikomatsakis | @nikomatsakis |
 
 
 
